@@ -1,5 +1,5 @@
 # memory-game
-Memory game in Java
 
 
-MEMORY GAME
+
+Memory Game in Java
