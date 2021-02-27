@@ -3,7 +3,7 @@
 
 Memory Game in Java
 
-![image](https://user-images.githubusercontent.com/73825070/109396025-3b014300-7938-11eb-87fa-5207111e6226.png)
+![image](https://user-images.githubusercontent.com/73825070/109396067-70a62c00-7938-11eb-8f57-1bb8cc9efe64.png)
 ![image](https://user-images.githubusercontent.com/73825070/109396027-405e8d80-7938-11eb-9dbd-b7eb7dbfef21.png)
 
 
